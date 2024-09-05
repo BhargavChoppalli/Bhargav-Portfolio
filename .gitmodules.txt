@@ -1,0 +1,3 @@
+[submodule "Bhargav-Portfolio"]
+    path = Bhargav-Portfolio
+    url = https://github.com/username/Bhargav-Portfolio.git
